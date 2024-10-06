@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: separate;
+    border-spacing: 10px 10px; /* Väli solujen välille */
+}
+
+td {
+    border: 2px solid #000;  /* Musta reunus */
+    padding: 20px;  /* Isompi koko */
+    font-size: 24px;
+    text-align: center;
+    background-color: #fbe3a1;  /* Vaalea keltainen taustaväri */
+    border-radius: 8px;  /* Pyöristetyt reunat */
+}
+
+p {
+    font-size: 18px;
+}
